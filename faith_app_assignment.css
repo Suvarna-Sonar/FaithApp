@@ -1,0 +1,160 @@
+.nityanand_charan_das{
+    width: 100%;
+    margin-top: 5px;
+    margin-left: 0;
+}
+.nav{
+    transition: border-bottom 0.15s;
+}
+.nav:hover{
+    border-bottom: 3px solid rgb(21, 71, 219);
+    border-width: 3px;
+}
+.nav:active{
+    border-bottom: 3px solid rgb(21, 71, 219);
+}
+.text-box {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    color: white;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-bottom: 70px;
+  }
+.box{
+    background-color: rgb(236, 236, 255);
+    width: 350px;
+    top: -50px;
+    left: 600px;
+    position: relative;
+}
+.course_content{
+    margin: auto;
+    width: 430px;
+}
+.course_overview{
+    padding: 20px;
+    font-size: 12px;
+}
+.heading{
+    width: 400px;
+    font-size: 30px;
+}
+.name{
+    font-size: 20px;
+}
+
+.content{
+    margin-left: 60px;
+    margin-top: -330px;
+}
+
+.description{
+    font-size: 15px;
+    width: 450px;
+}
+
+.instuctor_info{
+    margin: auto;
+    width: 100%;
+}
+.profile{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.instuctor_pic{
+    display: inline-block;
+    vertical-align: 70px;
+    
+}
+
+.instuctor_content_1{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.instuctor_content_2{
+    display: inline-block;
+    vertical-align: -55px;
+    margin-left: 50px;
+}
+
+.icons{
+    margin: auto;
+    width: 100%;
+}
+.icon{
+    display: inline-block;
+}
+.bottom{
+    height: 300px;
+    width: 100%;
+    margin: auto;
+    background-color: rgb(244, 243, 243);
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 50px;
+}
+
+.leftsign{
+    display: inline-block;
+    margin-left: 180px;
+    vertical-align: 50px;
+}
+.rightsign{
+    display: inline-block;
+    margin-left: 70px;
+    vertical-align: 50px;
+}
+.leftsymbol{
+    background: #bbb; 
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.fa-less-than{
+    margin-left: 8px;
+    margin-top: 7px;
+}
+.rightsymbol{
+    background: #bbb; 
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.fa-greater-than{
+    margin-top: 7px;
+    margin-left: 9px;
+}
+
+.text{
+    display: inline-block;
+    font-weight: bold;
+    font-size: 18px;
+    width: 430px;
+    /* vertical-align: bottom; */
+    margin-left: 90px;
+    margin-top: 50px; 
+    text-align: center;
+}
+.img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.review_profile{
+    margin: auto;
+    width: 430px;
+}
+.pimg{
+    display: inline-block;
+    vertical-align: top;
+}
+.pname{
+    display: inline-block;
+    vertical-align: top;
+}
